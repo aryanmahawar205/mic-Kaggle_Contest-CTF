@@ -3,7 +3,7 @@
 Welcome to the repository for the Capture the Flag (CTF) and Kaggle contests organized by the Microsoft Innovations Club at VIT Chennai. This repository serves as a resource for participants, offering datasets and code to enhance your skills.
 
 ## Contents
-CTF Datasets: Resources and datasets for the Capture the Flag challenges.
+CTF Datasets: Resources and datasets for the Capture the Flag challenges. <br>
 Kaggle Contest Code: Datasets and code submissions for our Kaggle competition, including outputs.
 
 ## Contributing
